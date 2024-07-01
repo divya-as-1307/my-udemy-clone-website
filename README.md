@@ -14,4 +14,4 @@ Technologies Used
 HTML: For structuring the content on the web pages.
 CSS: For styling and enhancing the appearance of the web pages.
 
-You can visit my udemy website [Link]
+You can visit my udemy website [https://divya-as-1307.github.io/my-udemy-clone-website/]
